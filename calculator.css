@@ -1,0 +1,21 @@
+.bk{
+    border: 1px solid rgba(31, 31, 24);
+    border-radius: 5px;
+    width: 200px;
+    
+}
+#display{
+    margin: 10px ;
+    width: 85%;
+    font-size: 25px;
+}
+.bun{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
